@@ -4,6 +4,6 @@ public class Second {
     int a = 4;
     int b = 8;
     int c = a+b;
-    System.out.println(c);
+    System.out.println("SUM OF A AND B" + c);
    } 
 }
